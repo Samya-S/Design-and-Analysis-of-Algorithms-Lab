@@ -1,2 +1,1 @@
-# Design-and-Analysis-of-Algorithms-Lab
- Design and Analysis of Algorithms Lab (MA39203)
+# Design and Analysis of Algorithms Lab (MA39203)
