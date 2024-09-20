@@ -67,7 +67,7 @@
    cd foldername
    ```
 
-3. Compile and run the C programs:  
+3. Compile and run the C++ programs:  
    ```bash
    g++ filename.cpp -o outputfile
    ./outputfile
